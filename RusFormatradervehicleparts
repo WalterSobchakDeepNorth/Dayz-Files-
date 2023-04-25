@@ -885,6 +885,10 @@ m4_tractor_wheel
 m4_tractor_wheel
 m4_tractor_wheel
 m4_tractor_wheel
+m4_tractor_wheel
+m4_tractor_wheel
+m4_tractor_wheel
+m4_tractor_wheel
 CarBattery
 SparkPlug
 CarRadiator
@@ -897,6 +901,10 @@ m4_tractor_wheel
 m4_tractor_wheel
 m4_tractor_wheel
 m4_tractor_wheel
+m4_tractor_wheel
+m4_tractor_wheel
+m4_tractor_wheel
+m4_tractor_wheel
 CarBattery
 SparkPlug
 CarRadiator
@@ -905,6 +913,10 @@ HeadlightH7
 HeadlightH7
 
 <VehicleParts> m4_tractor_winter
+m4_tractor_wheel
+m4_tractor_wheel
+m4_tractor_wheel
+m4_tractor_wheel
 m4_tractor_wheel
 m4_tractor_wheel
 m4_tractor_wheel
@@ -1686,6 +1698,14 @@ artillery_tractor_wheel
 artillery_tractor_wheel
 artillery_tractor_wheel
 artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
 artillery_tractor_tent
 artillery_tractor_doors_driver
 artillery_tractor_doors_codriver
@@ -1699,6 +1719,14 @@ HeadlightH7
 HeadlightH7
 
 <VehicleParts> artillery_tractor_camo
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
 artillery_tractor_wheel
 artillery_tractor_wheel
 artillery_tractor_wheel
@@ -1720,6 +1748,14 @@ artillery_tractor_wheel
 artillery_tractor_wheel
 artillery_tractor_wheel
 artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
 artillery_tractor_tent
 artillery_tractor_doors_driver_kung
 artillery_tractor_doors_codriver_kung
@@ -1733,6 +1769,14 @@ HeadlightH7
 HeadlightH7
 
 <VehicleParts> artillery_tractor_kung_camo
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
+artillery_tractor_wheel
 artillery_tractor_wheel
 artillery_tractor_wheel
 artillery_tractor_wheel
